@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+h1{
+    color: #6C3C1C;
+    font-size:x-large; 
+    font-family: "Roboto Condensed";
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 0px;
+margin-top: 0px;
+border-bottom: 1px solid #6C3C1C;
+}
+.introducao h2 {
+    font-size: large;
+    font-family: "Roboto Condensed";
+    text-align: center;
+    font-weight: bolder;
+    color: #6C312C;
+padding-bottom: 10px;
+padding-top: 0px;
+margin-top: 0px;
+border-bottom: 1px dashed #6C312C;}
+    #afinação ul{
+        text-align: center;
+        list-style-type: disc;
+        font: large light "Lato";
+    }
+    .acordes{
+        text-align: center;
+        font-family: "Lato";
+        font-size: large;
+        color: #6C3C1C;
+        list-style-type: disc;
+    }
+    .footer{
+        text-align: center;
+        font-family: "Lato";
+        font-size: large;
+        color: #423526;
+        padding-top: 10px;
+    }
